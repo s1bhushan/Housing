@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "title":"Price Trends",
+        "description":"Find property rates & price trends of top locations",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/priceTrends.fbcaa632.svg"
+      },
+      {
+        "id":2,
+        "title":"City Insights",
+        "description":"Get to know about top cities before you invest",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/cityInsights.8dc96b0f.svg"
+      },
+     
+      {
+        "id":3,
+        "title":"Housing Research",
+        "description":"Find reports on Indian residential market",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/homeLoans.6f74252b.svg" 
+      },
+      
+      {
+        "id":4,
+        "title":"Price Trends",
+        "description":"Find property rates & price trends of top locations",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/priceTrends.fbcaa632.svg"
+      },
+      {
+        "id":5,
+        "title":"City Insights",
+        "description":"Get to know about top cities before you invest",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/cityInsights.8dc96b0f.svg"
+      },
+     
+      {
+        "id":6,
+        "title":"Housing Research",
+        "description":"Find reports on Indian residential market",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/homeLoans.6f74252b.svg" 
+      },
+
+      {
+        "id":7,
+        "title":"City Insights",
+        "description":"Get to know about top cities before you invest",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/cityInsights.8dc96b0f.svg"
+      },
+     
+      {
+        "id":8,
+        "title":"Housing Research",
+        "description":"Find reports on Indian residential market",
+        "img":"https://c.housingcdn.com/demand/s/client/common/assets/homeLoans.6f74252b.svg" 
+      }
+    
+    
+    ]
+    

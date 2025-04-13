@@ -1,0 +1,28 @@
+[
+{
+    "id":4,
+    "title":"Pay On Credit",
+    "description":"pay your rent using credit card",
+    "img":"https://c.housingcdn.com/demand/s/client/common/assets/payRent.78e109c7.svg"
+  },
+  {
+    "id":5,
+    "title":"Housing Premium",
+    "description":"Instance access to zero brokerage property",
+    "img":"https://c.housingcdn.com/demand/s/client/common/assets/housingPremium.2b94918b.svg"
+  },
+  {
+    "id":6,
+    "title":"Home Loans",
+    "description":"Lowest Interest Loan Offers",
+    "img":"https://c.housingcdn.com/demand/s/client/common/assets/homeLoans.6f74252b.svg"
+  },
+  {
+    "id":7,
+    "title":"Housing Protect",
+    "description":"Protection against cyber frouds",
+    "img":"https://c.housingcdn.com/demand/s/client/common/assets/housingProtect.429dfd61.svg"
+  }
+
+
+]
