@@ -5,6 +5,7 @@ import Housing from "../components/Housing";
 import HousingEdge from "../components/HousingEdge";
 import Login from "./Login";
 import Downloadapp from "./Downloadapp";
+import Devloper from "./Devloper";
 
 
 
@@ -28,7 +29,7 @@ export default function Navbar(){
                          </Link>
                          <ul className="dropdown-menu">
       
-                           <li><Link className="dropdown-item" to="/house">For Devloper</Link></li>
+                           <li><Link className="dropdown-item" to="/devloper">For Devloper</Link></li>
                            <li><Link className="dropdown-item" to="/edge">For Broker</Link></li>
                            <li><Link className="dropdown-item" to="#">For Owners</Link></li>
                            <li><Link className="dropdown-item" to="#">Housing Premium</Link></li>
@@ -46,6 +47,7 @@ export default function Navbar(){
                       <Route path="/house" element={<Housing/>}/>
                       <Route path="/edge" element = {<HousingEdge/>}/>
                       <Route path="/download" element={<Downloadapp/>}/>
+                      <Route path="/devloper" element={<Devloper/>}/>
                   </Routes>
                  
       
