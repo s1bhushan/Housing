@@ -7,8 +7,8 @@ import HousingEdge from "../components/HousingEdge";
 import Downloadapp from "./Downloadapp";
 import Devloper from "./Devloper";
 import Broker from "./Broker";
-// import Login from "./Login";
-// import Register from "../login/Register";
+import Login from "./Login";
+import Register from "../login/Register";
 
 
 
@@ -47,13 +47,13 @@ export default function Navbar(){
       
                   <Routes>
                       <Route path="/" element = {<Home/>}/>
-                      {/* <Route path="/login" element={<Login/>}/> */}
+                      <Route path="/login" element={<Login/>}/>
                       <Route path="/house" element={<Housing/>}/>
                       <Route path="/edge" element = {<HousingEdge/>}/>
                       <Route path="/download" element={<Downloadapp/>}/>
                       <Route path="/devloper" element={<Devloper/>}/>
                       <Route path="/broker" element={<Broker/>}/>
-                      {/* <Route path="/register" element={<Register/>}/> */}
+                      <Route path="/register" element={<Register/>}/>
 
                   </Routes>
                  
