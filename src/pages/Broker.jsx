@@ -1,6 +1,7 @@
 import React from "react";
+import Brokerview from "../components/Brokerview";
 
-export default function Devloper(){
+export default function Broker(){
     return(
 
         <div>
@@ -33,7 +34,10 @@ export default function Devloper(){
      </div>
 
 
+
         </div>
+
+        <Brokerview/>
 
         <div className="lowerside">
 <img src="https://c.housingcdn.com/supply/s/client/common/assets/REAGroup.e5435593.png" alt="..."/>

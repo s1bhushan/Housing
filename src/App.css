@@ -391,6 +391,18 @@ margin-top: -10px;
   
  
 }
+.carousel-item5 img{
+  border: 2px solid #000204;
+  border-radius: 3%;
+  object-fit: cover;
+  width: 80%;
+  height: 400px;
+  display: inline-block;
+ 
+  
+ 
+}
+
 .carousel-item1 img{
   border: 2px solid #000204;
   object-fit: cover;

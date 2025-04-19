@@ -3,9 +3,13 @@ import { Route, BrowserRouter as Router,Routes,Link } from "react-router-dom";
 import Home from "./Home";
 import Housing from "../components/Housing";
 import HousingEdge from "../components/HousingEdge";
-import Login from "./Login";
+
 import Downloadapp from "./Downloadapp";
 import Devloper from "./Devloper";
+import Broker from "./Broker";
+import Login from "./Login";
+import Register from "../login/Register";
+
 
 
 
@@ -30,7 +34,7 @@ export default function Navbar(){
                          <ul className="dropdown-menu">
       
                            <li><Link className="dropdown-item" to="/devloper">For Devloper</Link></li>
-                           <li><Link className="dropdown-item" to="/edge">For Broker</Link></li>
+                           <li><Link className="dropdown-item" to="/broker">For Broker</Link></li>
                            <li><Link className="dropdown-item" to="#">For Owners</Link></li>
                            <li><Link className="dropdown-item" to="#">Housing Premium</Link></li>
                          </ul>
@@ -48,6 +52,9 @@ export default function Navbar(){
                       <Route path="/edge" element = {<HousingEdge/>}/>
                       <Route path="/download" element={<Downloadapp/>}/>
                       <Route path="/devloper" element={<Devloper/>}/>
+                      <Route path="/broker" element={<Broker/>}/>
+                      <Route path="/register" element={<Register/>}/>
+
                   </Routes>
                  
       

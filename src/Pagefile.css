@@ -18,3 +18,50 @@ height: 100%;
     padding-left: 2.5rem; padding-right: 2.5rem;
 
 }
+
+
+.carousel-side{
+    height: 200px;
+    width: 1200px;
+    
+   
+    border-radius: 10px;
+    
+}
+.carousel-it3{
+    margin-left: 70%;
+    margin-top: -25%;
+}
+
+
+.carousel-side3{
+    margin-top: 13%;
+    margin-left: 12%;
+  
+    
+}
+.carousel-side3 h6{
+    font-style: italic;
+  
+    
+}
+
+.lowerside{
+   
+  margin-top: 200px;
+   height: 102px;
+   width: 100%;
+  
+  }
+
+  
+.lowerside img{
+   
+   height: 100px;
+  margin-left: 40%;
+    
+    }
+
+
+
+  
